@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements the Generalized MDM (Method of Dichotomy for Maximin) method for separating multiple finite sets in Euclidean space. The algorithm solves the problem of projecting the origin onto the Minkowski sum of convex hulls of finite sets. The implementation includes both cyclic and extreme computational schemes and applies the method to multi-class image classification tasks.
+This project implements the Generalized MDM method for separating multiple finite sets in Euclidean space. The algorithm solves the problem of projecting the origin onto the Minkowski sum of convex hulls of finite sets. The implementation includes both cyclic and extreme computational schemes and applies the method to multi-class image classification tasks.
 
 ## Mathematical Background
 
