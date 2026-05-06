@@ -32,17 +32,6 @@ Processes sets sequentially in order, performing correction steps when `Δ_k(λ)
 
 ## Implementation
 
-### Project Structure
-```
-├── mdm_classifier.py # Main implementation file
-├── flower_classifier_3flowers.pkl # Pre-trained model
-├── flowers/ # Dataset directory
-│ ├── roses/ # Rose images
-│ ├── dandelions/ # Dandelion images
-│ └── sunflowers/ # Sunflower images
-└── README.md
-```
-
 ### Core Classes
 
 #### `MDMSeparationSolver`
