@@ -129,6 +129,7 @@ The `extract_enhanced_features_single` function extracts a comprehensive feature
 
 ```bash
 pip install numpy torch pillow opencv-python scikit-image matplotlib scikit-learn
+```
 
 ### Dataset Structure
 
